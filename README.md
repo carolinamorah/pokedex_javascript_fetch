@@ -1,1 +1,1 @@
-# pokemon_1
+# pokedex consultas con fetch y javascript
